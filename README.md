@@ -64,3 +64,5 @@ o	User: "What is this website about?"
 	Chatbot: "This domain is for use in illustrative examples..."
 o	User: "Who is the owner?" 
 	Chatbot: "The domain is owned by IANA."
+
+![image](https://github.com/user-attachments/assets/756b4ae4-b60f-48a6-8e5a-ef72549ed59a)
